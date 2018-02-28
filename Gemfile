@@ -56,8 +56,6 @@ end
 group :production do
 
 gem 'pg', '~> 0.21'
-gem 'faker'
-gem 'will_paginate'
 gem 'rails_12factor'
 
 end
